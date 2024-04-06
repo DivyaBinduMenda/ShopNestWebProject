@@ -17,3 +17,10 @@ Responsive Design for Cross-Device Compatibility
 4)HTML5/CSS3
 5)JavaScript
 6)Razorpay API
+
+
+# Setup Instructions
+(1) Clone the Repository:
+
+git clone https://github.com/DivyaBinduMenda/ShopNestWebProject.git
+
