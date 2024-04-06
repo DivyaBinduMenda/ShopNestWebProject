@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e8f0fe; /* Bright blue background */
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* New styles for form container */
+.form-container {
+    width: 50%; /* Decreased width */
+    margin: 20px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center; /* Centered form */
+}
+
+.form-container form input[type="text"], .form-container form input[type="password"], .form-container form textarea {
+    width: 80%; /* Decreased width */
+    padding: 10px;
+    margin: 10px auto; /* Centered input */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: block; /* Make input block to take full width of the parent */
+}
+
+.form-container form input[type="submit"] {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 80%; /* Full width button */
+    display: block; /* Make button block to take full width of the parent */
+    margin: 10px auto; /* Centered button */
+}
+
+.form-container form label {
+    font-weight: bold;
+    display: block; /* Make label block to align it with input fields */
+    text-align: left; /* Align text to left */
+    width: 80%; /* Align label with input fields */
+    margin: 10px auto; /* Centered label */
+}
+
+.form-container form a {
+    color: #333;
+    text-decoration: none;
+}
+
+
