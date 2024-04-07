@@ -12,11 +12,17 @@ Responsive Design for Cross-Device Compatibility
 
 # Technologies Used
 1)JavaServer Pages (JSP)
+
 2)Java Servlets
+
 3)Oracle Database
+
 4)HTML5/CSS3
+
 5)JavaScript
+
 6)Razorpay API
+
 
 
 # Setup Instructions
